@@ -1,1 +1,1 @@
-add_library(rbmap rbtree.h rbtreemap.cpp)
+add_library(rbmap rbtree.h rbtreemap.h)
